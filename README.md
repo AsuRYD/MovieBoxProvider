@@ -1,2 +1,2 @@
 # MovieBoxProvider
-Personally Maitained Extension for Moviebox
+Personally Maintained Extension for Moviebox
