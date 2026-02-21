@@ -4,6 +4,6 @@
   "description": "MovieBox Content",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/plugin.json"
+    "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/plugins.json"
   ]
 }
