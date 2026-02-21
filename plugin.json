@@ -1,0 +1,16 @@
+[
+  {
+    "name": "MovieBoxProvider",
+    "internalName": "MovieBoxProvider",
+    "description": "Movies & Tv Series Provider",
+    "version": 11,
+    "authors": ["AsuRyd"],
+    "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/icon.png",
+    "url": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/MovieBoxProvider.cs3",
+    "repositoryUrl": "https://github.com/AsuRYD/MovieBoxProvider",
+    "status": 1,
+    "language": "hi",
+    "apiVersion": 1,
+    "tvTypes": ["Movie", "TvSeries"]
+  }
+]
