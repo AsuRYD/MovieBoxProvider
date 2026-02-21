@@ -5,9 +5,7 @@
         "repositoryUrl": "https://github.com/AsuRYD/MovieBoxProvider",
         "status": 1,
         "language": "hi",
-        "authors": [
-            "AsuRyd"
-        ],
+        "authors": "AsuRyd",
         "tvTypes": [
             "Movies",
             "Tv Series"
