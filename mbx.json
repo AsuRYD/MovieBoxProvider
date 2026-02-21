@@ -1,5 +1,5 @@
 {
-    "name": "MBX",
+    "name": "MovieBoxProvider",
     "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/refs/heads/main/mbx.png",
     "description": "MovieBox Content",
     "manifestVersion": 1,
