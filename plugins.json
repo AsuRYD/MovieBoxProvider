@@ -9,22 +9,8 @@
     "url": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/MovieboxProvider.cs3",
     "repositoryUrl": "https://github.com/AsuRYD/MovieBoxProvider",
     "status": 1,
-    "language": "hi",
+    "language": "en",
     "apiVersion": 1,
     "tvTypes": ["Movie", "TvSeries"]
-  },
-  {
-    "name": "SpankBang",
-    "internalName": "SpankBang",
-    "description": "NSFW Provider",
-    "version": 2,
-    "authors": ["AsuRyd"],
-    "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/icon.png",
-    "url": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/Spankbang.cs3",
-    "repositoryUrl": "https://github.com/AsuRYD/MovieBoxProvider",
-    "status": 1,
-    "language": "hi",
-    "apiVersion": 1,
-    "tvTypes": ["Movie"]
   }
 ]
