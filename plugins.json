@@ -19,7 +19,7 @@
     "description": "NSFW Provider",
     "version": 2,
     "authors": ["AsuRyd"],
-    "iconUrl": "https://favicon.im/spankbang.com?larger=true",
+    "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/icon.png",
     "url": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/Spankbang.cs3",
     "repositoryUrl": "https://github.com/AsuRYD/MovieBoxProvider",
     "status": 1,
