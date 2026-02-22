@@ -25,6 +25,6 @@
     "status": 1,
     "language": "hi",
     "apiVersion": 1,
-    "tvTypes": ["NSFW", "Movie"]
+    "tvTypes": ["Movie"]
   }
 ]
