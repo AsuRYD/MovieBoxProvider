@@ -3,7 +3,7 @@
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "description": "Movies & Tv Series Provider",
-    "version": 11,
+    "version": 2,
     "authors": ["AsuRyd"],
     "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/icon.png",
     "url": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/MovieboxProvider.cs3",
