@@ -1,11 +1,11 @@
 [
   {
-    "name": "MovieBoxProvider",
-    "internalName": "MovieBoxProvider",
+    "name": "CNMX",
+    "internalName": "CinemaProvider",
     "description": "Movies & Tv Series Provider",
     "version": 2,
     "authors": ["AsuRyd"],
-    "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/refs/heads/main/mbx.png",
+    "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/icon.png",
     "url": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/MovieboxProvider.cs3",
     "repositoryUrl": "https://github.com/AsuRYD/MovieBoxProvider",
     "status": 1,

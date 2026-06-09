@@ -1,7 +1,7 @@
 {
-  "name": "MBX",
+  "name": "CNMX",
   "iconUrl": "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/mbx.png",
-  "description": "MovieBox Content",
+  "description": "Cinema Content",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/AsuRYD/MovieBoxProvider/main/plugins.json"

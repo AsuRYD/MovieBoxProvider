@@ -1,1 +1,1 @@
-Personally Maintained Extension for Moviebox
+Personally Maintained Extension for CinemaProvider
